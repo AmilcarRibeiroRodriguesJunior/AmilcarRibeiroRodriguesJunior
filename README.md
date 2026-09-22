@@ -126,67 +126,12 @@ O projeto envolve tratamento e exploração dos dados, além da utilização de 
 
 ---
 
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img
-  height="180"
-  src="https://github-readme-stats.vercel.app/api?username=AmilcarRibeiroRodriguesJunior&show_icons=true&hide_border=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"
-/>
-
-<img
-  height="180"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmilcarRibeiroRodriguesJunior&layout=compact&hide_border=true&theme=chartreuse-dark"
-/>
-
-</p>
-
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
 
 <img
   src="https://streak-stats.demolab.com?user=AmilcarRibeiroRodriguesJunior&theme=dark&hide_border=true&ring=00FF88&fire=00FF88&currStreakLabel=00FF88&sideLabels=ffffff&dates=ffffff"
-/>
-
-</p>
-
----
-
-# 📊 Activity Graph
-
-<p align="center">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=AmilcarRibeiroRodriguesJunior&bg_color=050505&color=00ff88&line=00ff88&point=ffffff&area=true&hide_border=true"
-/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img
-  src="https://github-profile-trophy.vercel.app/?username=AmilcarRibeiroRodriguesJunior&theme=matrix&no-frame=true&no-bg=true&margin-w=10&column=7"
-/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img
-  src="https://raw.githubusercontent.com/AmilcarRibeiroRodriguesJunior/AmilcarRibeiroRodriguesJunior/output/github-contribution-grid-snake.svg"
-  alt="GitHub Contribution Snake"
 />
 
 </p>
